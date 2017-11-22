@@ -1,1 +1,1 @@
-# wbr-starter
+# plz webpack

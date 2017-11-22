@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, Row, Col, FormControl, Table, Button } from 'react-bootstrap';
+import { Grid, Row, Col } from 'react-bootstrap';
 
 class App extends React.Component {
   constructor(props) {
